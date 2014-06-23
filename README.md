@@ -1,6 +1,6 @@
 # VintageFox
 
-Weblab is a Blog built with CodeIgniter. Check it out at [vintagefox-mimzy.rhcloud.com](//vintagefox-mimzy.rhcloud.com/).
+VintageFox is a Blog built with CodeIgniter. Check it out at [vintagefox-mimzy.rhcloud.com](//vintagefox-mimzy.rhcloud.com/).
 
 ## Table of contents
 
@@ -121,7 +121,6 @@ class Post extends CI_Model {
 **Milica Soljaga**
 
 - <http://mimzy.github.io>
-- <http://twitter.com/ReflectiveMila>
 
 ## Copyright and license
 
